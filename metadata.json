@@ -1,0 +1,6 @@
+{
+  "name": "Relay Contacts",
+  "description": "Import, deduplicate, and organize Google Contacts and Gmail correspondents with CSV and vCard support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
